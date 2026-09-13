@@ -1,0 +1,29 @@
+name: Package research companion
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'dist/research.*'
+      - 'scripts/package_research.py'
+      - '.github/workflows/research-package.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+      - name: Build portable report and verify artwork references
+        run: python scripts/package_research.py
+      - name: Save report package
+        uses: actions/upload-artifact@v7
+        with:
+          name: bacon-papal-research
+          path: research-output/
+          if-no-files-found: error
+          retention-days: 30
