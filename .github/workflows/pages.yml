@@ -1,11 +1,9 @@
-name: Publish artwork atlas to GitHub Pages
+# Optional manual deployment for users who explicitly choose GitHub Actions as Pages source.
+# The simpler documented source is main /docs; GitHub handles that branch deployment itself.
+# No automatic push trigger here, to avoid competing with branch-based Pages publishing.
+name: Publish artwork atlas to GitHub Pages (optional manual)
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'dist/**'
-      - '.github/workflows/pages.yml'
   workflow_dispatch:
 
 permissions:
@@ -26,19 +24,17 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Check out website
-        uses: actions/checkout@v6
+      - uses: actions/checkout@v6
       - name: Validate static entrypoint
         run: |
-          test -s dist/index.html
-          test -s dist/data.json
-          node --check dist/app.js
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-      - name: Upload website
-        uses: actions/upload-pages-artifact@v4
+          test -s docs/index.html
+          test -s docs/data.json
+          test -s docs/research.md
+          node --check docs/app.js
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
         with:
-          path: dist
+          path: docs
       - name: Publish
         id: deployment
         uses: actions/deploy-pages@v4

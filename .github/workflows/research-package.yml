@@ -1,29 +1,37 @@
-name: Package research companion
+name: Validate mobile site and package offline edition
 
 on:
   push:
     branches: [main]
-    paths:
-      - 'dist/research.*'
-      - 'scripts/package_research.py'
-      - '.github/workflows/research-package.yml'
+    paths: ['dist/**', 'docs/**', 'scripts/**', '.github/workflows/research-package.yml']
+  pull_request:
+    paths: ['dist/**', 'docs/**', 'scripts/**', '.github/workflows/research-package.yml']
   workflow_dispatch:
 
 permissions:
   contents: read
 
 jobs:
-  package:
+  verify:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v6
-      - name: Build portable report and verify artwork references
-        run: python scripts/package_research.py
-      - name: Save report package
-        uses: actions/upload-artifact@v7
+      - uses: actions/checkout@v6
+      - name: Install test dependencies
+        run: |
+          python -m pip install 'Pillow>=11,<13' 'playwright==1.57.0'
+          python -m playwright install --with-deps chromium webkit
+      - name: Validate syntax, assets and report references
+        run: |
+          node --check docs/app.js
+          python scripts/package_mobile.py
+      - name: Test mobile navigation and all local images
+        run: python scripts/test_mobile.py
+      - name: Save offline edition and QA results
+        if: always()
+        uses: actions/upload-artifact@v4
         with:
-          name: bacon-papal-research
+          name: bacon-papal-mobile-edition
           path: research-output/
           if-no-files-found: error
           retention-days: 30
