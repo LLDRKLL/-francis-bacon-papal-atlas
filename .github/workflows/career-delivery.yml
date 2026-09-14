@@ -1,0 +1,57 @@
+name: Build and verify career research companion
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/career.md'
+      - 'docs/career-curation.json'
+      - 'docs/career.css'
+      - 'docs/career.js'
+      - 'scripts/build_career.py'
+      - 'scripts/test_career.py'
+      - '.github/workflows/career-delivery.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: career-delivery
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+      - name: Install research site and browser test dependencies
+        run: |
+          python -m pip install 'Pillow>=11,<13' 'beautifulsoup4>=4.12,<5' 'Markdown==3.7' 'playwright==1.57.0'
+          python -m playwright install --with-deps chromium webkit
+      - name: Compile static report and complete offline edition
+        run: |
+          node --check docs/career.js
+          python scripts/build_career.py
+          git diff --exit-code -- docs/data.json docs/research.md docs/images dist/data.json dist/research.md dist/images
+      - name: Verify original two-part mobile application
+        run: |
+          python scripts/package_mobile.py
+          python scripts/test_mobile.py
+      - name: Verify career chapters, images, triptychs, mobile and offline reading
+        run: python scripts/test_career.py
+      - name: Preserve the verified website files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/career* dist/career* docs/index.html dist/index.html
+          if ! git diff --cached --quiet; then
+            git commit -m 'Compile and verify mobile career research with 26 artworks and 44 panels'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Save offline files, test results and mobile screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bacon-career-research-and-tests
+          path: research-output/
+          if-no-files-found: warn
+          retention-days: 30
