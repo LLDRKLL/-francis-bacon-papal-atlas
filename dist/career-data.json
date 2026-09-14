@@ -1,0 +1,1190 @@
+{
+  "version": "career-3.0",
+  "checked": "2026-09-14",
+  "works": [
+    {
+      "id": "33-01",
+      "slug": "crucifixion",
+      "cr": "33-01",
+      "zh": "十字架受难",
+      "title": "Crucifixion",
+      "year": "1933",
+      "stage": "early",
+      "medium": "Oil on canvas",
+      "dimensions": "24 ¾ x 19 in. (62 x 48.5 cm)",
+      "collection": "Private Collection",
+      "source": "https://www.francis-bacon.com/artworks/paintings/crucifixion",
+      "images": [
+        "career-images/33-01-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/33-01-1.jpg",
+          "width": 351,
+          "height": 450,
+          "bytes": 81266,
+          "sha256": "6fbf748e82b1116ae1bde32fef9c078434ef7253e29cc243dda378b5e9869749",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/33-01 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "身体",
+        "空间",
+        "文学与旧作"
+      ],
+      "reading": "白色、近乎骨架的形体与暗色背景形成显影关系。与1944年并看：同为受难题材，身体的方向、支撑和观看距离并不相同。",
+      "section": "c2"
+    },
+    {
+      "id": "44-01",
+      "slug": "three-studies-figures-base-crucifixion",
+      "cr": "44-01",
+      "zh": "十字架受难底部的人物三习作",
+      "title": "Three Studies for Figures at the Base of a Crucifixion",
+      "year": "1944",
+      "stage": "breakthrough",
+      "medium": "Oil and pastel on fibreboard",
+      "dimensions": "approx. Triptych: Each panel: 37 x 29 in. (94 x 74 cm) irregular",
+      "collection": "Tate Gallery, London",
+      "source": "https://www.francis-bacon.com/artworks/paintings/three-studies-figures-base-crucifixion",
+      "images": [
+        "career-images/44-01-1.jpg",
+        "career-images/44-01-2.jpg",
+        "career-images/44-01-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/44-01-1.jpg",
+          "width": 350,
+          "height": 450,
+          "bytes": 105572,
+          "sha256": "5ff7ce23a7963b535599f1ec1f91258fd6a001716865550dd103dfd5be9fc99e",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/44-01 FB a Left RGB.jpg"
+        },
+        {
+          "path": "career-images/44-01-2.jpg",
+          "width": 350,
+          "height": 450,
+          "bytes": 107069,
+          "sha256": "357bbc5f28b35f3ee274f64101e4d04652eac975b67ab1386748c91c2dac1c8f",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/44-01 FB b Centre RGB.jpg"
+        },
+        {
+          "path": "career-images/44-01-3.jpg",
+          "width": 349,
+          "height": 450,
+          "bytes": 91145,
+          "sha256": "598f53530213699c29704efd5dc4c081d0d23191395185b3fb594c90f106595c",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/44-01 FB c Right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "身体",
+        "动物",
+        "三联画",
+        "文学与旧作"
+      ],
+      "reading": "分别辨认三个形象的嘴、颈部和支撑物，再比较橙色如何使它们相连。人／兽之间的不稳定是观察问题，不直接等于某种人性结论。",
+      "section": "c3"
+    },
+    {
+      "id": "46-03",
+      "slug": "painting-1946",
+      "cr": "46-03",
+      "zh": "绘画，1946",
+      "title": "Painting 1946",
+      "year": "1946",
+      "stage": "breakthrough",
+      "medium": "Oil and pastel on canvas",
+      "dimensions": "77 ⅞ x 52 in. (198 x 132 cm)",
+      "collection": "Museum of Modern Art, New York",
+      "source": "https://www.francis-bacon.com/artworks/paintings/painting-1946",
+      "images": [
+        "career-images/46-03-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/46-03-1.jpg",
+          "width": 298,
+          "height": 450,
+          "bytes": 126974,
+          "sha256": "76f9d89906486dc7ed37f6d601c184164816155adc010415591215eb8f3a9763",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/46-03 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "身体",
+        "动物",
+        "空间",
+        "复制图像"
+      ],
+      "reading": "伞、肉、正式服饰与栏杆共同组织仪式般的场面。把被遮住的身份与被展示的肉并看，不直接将人物命名为教皇。",
+      "section": "c3"
+    },
+    {
+      "id": "48-01",
+      "slug": "head-i",
+      "cr": "48-01",
+      "zh": "头部 I",
+      "title": "Head I",
+      "year": "1948",
+      "stage": "breakthrough",
+      "medium": "Oil and tempera on hardboard",
+      "dimensions": "approx. 40 ½ x 29 ½ in. (103 x 75 cm) irregular",
+      "collection": "Metropolitan Museum of Art, New York",
+      "source": "https://www.francis-bacon.com/artworks/paintings/head-i",
+      "images": [
+        "career-images/48-01-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/48-01-1.jpg",
+          "width": 332,
+          "height": 450,
+          "bytes": 96757,
+          "sha256": "6dfd482e20ec0a9cb3307004e1e4bfcbcf95f6c295e0ea8eff919a915567d58a",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/48-01 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "身体",
+        "动物",
+        "肖像"
+      ],
+      "reading": "面孔、口与身体的边界不能稳定拼合。观察哪些线索仍使我们辨认一个头部，哪些线索又使这种辨认受到阻力。",
+      "section": "c3"
+    },
+    {
+      "id": "49-07",
+      "slug": "head-vi",
+      "cr": "49-07",
+      "zh": "头部 VI",
+      "title": "Head VI",
+      "year": "1949",
+      "stage": "bodies",
+      "medium": "Oil on canvas",
+      "dimensions": "36 ¾ x 30 ¼ in. (91.4 x 76.2 cm)",
+      "collection": "Arts Council Collection, Southbank, London",
+      "source": "https://www.francis-bacon.com/artworks/paintings/head-vi",
+      "images": [
+        "career-images/49-07-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/49-07-1.jpg",
+          "width": 371,
+          "height": 450,
+          "bytes": 155285,
+          "sha256": "e1d365dbae90688db87b1ef98c38cf58e1ff4e2128f07ce7127e4619926b5529",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/49-07 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "身体",
+        "肖像",
+        "空间",
+        "复制图像"
+      ],
+      "reading": "嘴比上半张脸更容易辨认；衣袍与框线继续提供身份和位置。和同年背向观者的裸体比较，不把所有在场感都归给面孔。",
+      "section": "c4"
+    },
+    {
+      "id": "49-08",
+      "slug": "study-human-body",
+      "cr": "49-08",
+      "zh": "人体习作，1949",
+      "title": "Study from the Human Body",
+      "year": "1949",
+      "stage": "bodies",
+      "medium": "Oil and cotton wool on canvas",
+      "dimensions": "58 x 51 ½ in. (147.5 x 131 cm)",
+      "collection": "National Gallery of Victoria, Melbourne",
+      "source": "https://www.francis-bacon.com/artworks/paintings/study-human-body",
+      "images": [
+        "career-images/49-08-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/49-08-1.jpg",
+          "width": 394,
+          "height": 450,
+          "bytes": 105940,
+          "sha256": "4442019cd5c2731c830c8074288ac93f8fc941e3954b1903e1ee4c6ae31b2f3e",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/49-08 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "身体",
+        "空间",
+        "复制图像"
+      ],
+      "reading": "没有可见面孔，身体仍能占据画面。与《头部VI》并看，检验身份、背影、方向和帘状空间如何分别参与观看。",
+      "section": "c4"
+    },
+    {
+      "id": "52-03",
+      "slug": "dog",
+      "cr": "52-03",
+      "zh": "狗",
+      "title": "Dog",
+      "year": "1952",
+      "stage": "bodies",
+      "medium": "Oil and sand on canvas",
+      "dimensions": "78 x 54 in. (198 x 137 cm)",
+      "collection": "Tate Gallery, London",
+      "source": "https://www.francis-bacon.com/artworks/paintings/dog",
+      "images": [
+        "career-images/52-03-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/52-03-1.jpg",
+          "width": 311,
+          "height": 450,
+          "bytes": 71224,
+          "sha256": "6dc17acda752bbd9b49a8bbc3d0153f834c6f8edfa6850190c3f98becce1b3b9",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/52-03 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "动物",
+        "身体",
+        "空间"
+      ],
+      "reading": "观察动物身体的高度、地面与方向。动物首先改变观看空间的方式，不只是人类野蛮的比喻。",
+      "section": "c4"
+    },
+    {
+      "id": "53-02",
+      "slug": "study-after-velazquezs-portrait-pope-innocent-x",
+      "cr": "53-02",
+      "zh": "据委拉斯开兹教皇肖像而作的习作",
+      "title": "Study after Velázquez's Portrait of Pope Innocent X",
+      "year": "1953",
+      "stage": "bodies",
+      "medium": "Oil on canvas",
+      "dimensions": "60 ¼ x 46 ½ in. (153 x 118 cm)",
+      "collection": "Des Moines Art Centre, Des Moines",
+      "source": "https://www.francis-bacon.com/artworks/paintings/study-after-velazquezs-portrait-pope-innocent-x",
+      "images": [
+        "career-images/53-02-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/53-02-1.jpg",
+          "width": 348,
+          "height": 450,
+          "bytes": 132766,
+          "sha256": "9840bc9554d532ae4ef75648df5ff5001e586c725f694fc8b2e576fb4c0cab89",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/53-02 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "身体",
+        "肖像",
+        "空间",
+        "复制图像"
+      ],
+      "reading": "黄色边界给出位置，竖向痕迹又使人物与背景相连。熟悉的身份没有完全退出，其残余使不稳定更强烈。",
+      "section": "c4"
+    },
+    {
+      "id": "53-24",
+      "slug": "two-figures",
+      "cr": "53-24",
+      "zh": "两个人物",
+      "title": "Two Figures",
+      "year": "1953",
+      "stage": "bodies",
+      "medium": "Oil on canvas",
+      "dimensions": "60 x 45 ⅞ in. (152.5 x 116.5 cm)",
+      "collection": "Private Collection",
+      "source": "https://www.francis-bacon.com/artworks/paintings/two-figures",
+      "images": [
+        "career-images/53-24-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/53-24-1.jpg",
+          "width": 343,
+          "height": 450,
+          "bytes": 96874,
+          "sha256": "6d1e1a47212d9dcc5b8add55e45ba275996da1a09567c251fed4da0cfc011c7f",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/53-24 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "身体",
+        "私人关系",
+        "复制图像"
+      ],
+      "reading": "两个身体的接触使支撑、角力与性爱联想彼此交错。画面不是一个孤独者的内心图，也不是现实瞬间的透明记录。",
+      "section": "c4"
+    },
+    {
+      "id": "54-14",
+      "slug": "figure-meat",
+      "cr": "54-14",
+      "zh": "与肉在一起的人物",
+      "title": "Figure with Meat",
+      "year": "1954",
+      "stage": "bodies",
+      "medium": "Oil on canvas",
+      "dimensions": "50 ⅞ x 48 in. (129 x 122 cm)",
+      "collection": "Art Institute of Chicago, Chicago",
+      "source": "https://www.francis-bacon.com/artworks/paintings/figure-meat",
+      "images": [
+        "career-images/54-14-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/54-14-1.jpg",
+          "width": 421,
+          "height": 450,
+          "bytes": 120169,
+          "sha256": "08d7628b601498d1c801c5312b40b19298ff46459473ede2e583f291b463df4a",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/54-14 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "身体",
+        "动物",
+        "空间",
+        "文学与旧作"
+      ],
+      "reading": "肉既可能形成反讽的华盖，也可能侵入尊位的差别。保留两种读法的竞争，不把共同肉身自动推论为等级消失。",
+      "section": "c4"
+    },
+    {
+      "id": "56-06",
+      "slug": "study-portrait-i-0",
+      "cr": "56-06",
+      "zh": "肖像习作 I，1956",
+      "title": "Study for Portrait I",
+      "year": "1956",
+      "stage": "transition",
+      "medium": "Oil on canvas",
+      "dimensions": "77 ⅛ x 55 ¾ in. (197 x 141.5 cm)",
+      "collection": "The National Gallery of Canada, Ottawa",
+      "source": "https://www.francis-bacon.com/artworks/paintings/study-portrait-i-0",
+      "images": [
+        "career-images/56-06-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/56-06-1.jpg",
+          "width": 322,
+          "height": 450,
+          "bytes": 77929,
+          "sha256": "e3672b70cdd4bc95b5adac46fe851d445c608507873c704734c023faa4ee2054",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/56-06 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "肖像",
+        "身体",
+        "空间"
+      ],
+      "reading": "闭口与回望，使紧张不再依赖尖叫的想象。沉默不是安宁的证据；比较观者是否仍能安全地单向凝视。",
+      "section": "c4"
+    },
+    {
+      "id": "57-14",
+      "slug": "study-portrait-van-gogh-vi",
+      "cr": "57-14",
+      "zh": "梵高肖像习作 VI",
+      "title": "Study for Portrait of Van Gogh VI",
+      "year": "1957",
+      "stage": "transition",
+      "medium": "Oil on canvas",
+      "dimensions": "79 ¾ x 56 in. (202.5 x 142 cm)",
+      "collection": "The Arts Council of Great Britain",
+      "source": "https://www.francis-bacon.com/artworks/paintings/study-portrait-van-gogh-vi",
+      "images": [
+        "career-images/57-14-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/57-14-1.jpg",
+          "width": 324,
+          "height": 450,
+          "bytes": 175537,
+          "sha256": "e47856611c4580fb9cd07b22530d001bb7e3fccff10935708b61b33ecf7d1b7d",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/57-14 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "身体",
+        "空间",
+        "复制图像",
+        "文学与旧作"
+      ],
+      "reading": "明亮而显露的笔触让地面、行走方向与人物共同参与强度。这是一条重要探索道路，不是后来全部作品的必经规范。",
+      "section": "c5"
+    },
+    {
+      "id": "62-04",
+      "slug": "three-studies-crucifixion",
+      "cr": "62-04",
+      "zh": "十字架受难三习作",
+      "title": "Three Studies for a Crucifixion",
+      "year": "1962",
+      "stage": "mature",
+      "medium": "Oil on canvas",
+      "dimensions": "Triptych: Each panel: 78 x 57 in. (198.1 x 144.8 cm)",
+      "collection": "Solomon R. Guggenheim Museum, New York",
+      "source": "https://www.francis-bacon.com/artworks/paintings/three-studies-crucifixion",
+      "images": [
+        "career-images/62-04-1.jpg",
+        "career-images/62-04-2.jpg",
+        "career-images/62-04-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/62-04-1.jpg",
+          "width": 328,
+          "height": 450,
+          "bytes": 96018,
+          "sha256": "c0f30ec3d447d0a29a47058e383827d30c4f4e843b219492e4df30abfd009ce9",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/62-04 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/62-04-2.jpg",
+          "width": 327,
+          "height": 450,
+          "bytes": 96151,
+          "sha256": "62ed8aef8c848d0ce459b5cfefd282e2d5de9157ca262a0fc7247fcae5fcdfc3",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/62-04 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/62-04-3.jpg",
+          "width": 327,
+          "height": 450,
+          "bytes": 95362,
+          "sha256": "5774ae434f4be73b6691bf5c55a3afd1244072001a2cfd37f6817e15cfe98533",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/62-04 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "身体",
+        "三联画",
+        "空间",
+        "文学与旧作"
+      ],
+      "reading": "三个分隔画面把不同身体与姿态联系起来，却不交付一个无缝故事。总体位置的明确，可以反而放大局部变形。",
+      "section": "c6"
+    },
+    {
+      "id": "63-13",
+      "slug": "portrait-henrietta-moraes",
+      "cr": "63-13",
+      "zh": "亨丽埃塔·莫赖斯肖像",
+      "title": "Portrait of Henrietta Moraes",
+      "year": "1963",
+      "stage": "mature",
+      "medium": "Oil on canvas",
+      "dimensions": "65 x 56 in. (165 x 142.5 cm)",
+      "collection": "Private Collection",
+      "source": "https://www.francis-bacon.com/artworks/paintings/portrait-henrietta-moraes",
+      "images": [
+        "career-images/63-13-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/63-13-1.jpg",
+          "width": 387,
+          "height": 450,
+          "bytes": 121436,
+          "sha256": "fdb8fd94d853576cd8296ab4b3180dbded6c38b8f5e7c6079a02614d5bb7f167",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/63-13 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "身体",
+        "肖像",
+        "私人关系",
+        "复制图像"
+      ],
+      "reading": "Deakin照片、身体比例和床单肌理共同进入肖像。Harrison把某些滴痕解释为可能被精心画出，提醒我们区别偶然效果与偶然程序。",
+      "section": "c7"
+    },
+    {
+      "id": "67-14",
+      "slug": "portrait-isabel-rawsthorne-standing-street-soho",
+      "cr": "67-14",
+      "zh": "站在苏荷街头的伊莎贝尔·罗斯索恩肖像",
+      "title": "Portrait of Isabel Rawsthorne Standing in a Street in Soho",
+      "year": "1967",
+      "stage": "mature",
+      "medium": "Oil on canvas",
+      "dimensions": "78 x 57 ¾ in. (198 x 147 cm)",
+      "collection": "Staatliche Museen Preussischer Kulturbesitz, Nationalgalerie, Berlin",
+      "source": "https://www.francis-bacon.com/artworks/paintings/portrait-isabel-rawsthorne-standing-street-soho",
+      "images": [
+        "career-images/67-14-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/67-14-1.jpg",
+          "width": 336,
+          "height": 450,
+          "bytes": 112460,
+          "sha256": "55d874d472dbfd0ec7c75a3655ca0bf57d2a396f3dc07cafbf4018f502baccf3",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/67-14 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "肖像",
+        "身体",
+        "空间",
+        "私人关系"
+      ],
+      "reading": "站姿、重心和街道方向使人物保留具体存在。变形不自动意味着被动或匿名；罗斯索恩不能仅被概括为画家的缪斯。",
+      "section": "c7"
+    },
+    {
+      "id": "67-16",
+      "slug": "triptych",
+      "cr": "67-16",
+      "zh": "三联画，1967（与《斗士斯威尼》相关）",
+      "title": "Triptych",
+      "year": "1967",
+      "stage": "mature",
+      "medium": "Oil on canvas",
+      "dimensions": "Left panel: 78 ¼ x 58 ⅜ in. (198.8 x 148.3 cm) centre and right panels: 78 ¼ x 58 ¼ in. (198.8 x 148 cm)",
+      "collection": "Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, D.C.",
+      "source": "https://www.francis-bacon.com/artworks/paintings/triptych",
+      "images": [
+        "career-images/67-16-1.jpg",
+        "career-images/67-16-2.jpg",
+        "career-images/67-16-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/67-16-1.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 96329,
+          "sha256": "a64dd0e78aeac604d643b7d53c29e6bc76c95463a11796563b184978706abba0",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/67-16 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/67-16-2.jpg",
+          "width": 336,
+          "height": 450,
+          "bytes": 91926,
+          "sha256": "74e47c15288fbafba3f924c7b29f224b4ce42e7c0b3e255525d73b163c83c067",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/67-16 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/67-16-3.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 101530,
+          "sha256": "7931755eece43071cbef067773a15109e147bbe2cedc6375ab526a6090c79c80",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/67-16 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "三联画",
+        "文学与旧作",
+        "身体",
+        "空间"
+      ],
+      "reading": "文学联系与目录正式题名分开：现行题名是《三联画》。不逐幅对号入座为诗剧角色，而比较画面间的重复、间隔与不安。",
+      "section": "c6"
+    },
+    {
+      "id": "69-07",
+      "slug": "three-studies-lucian-freud",
+      "cr": "69-07",
+      "zh": "卢西安·弗洛伊德三习作",
+      "title": "Three Studies of Lucian Freud",
+      "year": "1969",
+      "stage": "mature",
+      "medium": "Oil on canvas",
+      "dimensions": "Triptych: Each panel: 77 ⅞ x 58 ⅛ in. (197.8 x 147.5 cm)",
+      "collection": "Private Collection, USA",
+      "source": "https://www.francis-bacon.com/artworks/paintings/three-studies-lucian-freud",
+      "images": [
+        "career-images/69-07-1.jpg",
+        "career-images/69-07-2.jpg",
+        "career-images/69-07-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/69-07-1.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 86543,
+          "sha256": "82bf04925eee0675f8b95d4fac9284912d80851898c4895bad6370f959f5464b",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/69-07 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/69-07-2.jpg",
+          "width": 333,
+          "height": 450,
+          "bytes": 83918,
+          "sha256": "6b56d0a71e0fcd8a2fbfaec6af2f1fad3912dc95ca9134ae999fabdfc27cd5d8",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/69-07 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/69-07-3.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 81288,
+          "sha256": "0b5a09ac4925ad3e912e594386feee70fc2a36f13a09bd8206385b36316b1768",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/69-07 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "肖像",
+        "私人关系",
+        "三联画",
+        "空间"
+      ],
+      "reading": "同一名字出现在三个画面中，却没有哪一幅可以轻易成为唯一正确的形象。重复在保持辨认的同时，也暴露单幅肖像的限度。",
+      "section": "c7"
+    },
+    {
+      "id": "71-09",
+      "slug": "memory-george-dyer",
+      "cr": "71-09",
+      "zh": "纪念乔治·戴尔",
+      "title": "In Memory of George Dyer",
+      "year": "1971",
+      "stage": "mourning",
+      "medium": "Oil and dry transfer lettering on canvas",
+      "dimensions": "Triptych: Each panel: 78 x 58 in. (198 x 147.5 cm)",
+      "collection": "Fondation Beyeler, Beyeler Collection, Riehen / Basel",
+      "source": "https://www.francis-bacon.com/artworks/paintings/memory-george-dyer",
+      "images": [
+        "career-images/71-09-1.jpg",
+        "career-images/71-09-2.jpg",
+        "career-images/71-09-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/71-09-1.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 52751,
+          "sha256": "729e9e33d0ab71f4110b5f0fc93c5e96f304bb46b536b689a17ef804bc3074fc",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/71-09 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/71-09-2.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 86359,
+          "sha256": "da138269abc09ff84d18acc98beeb4437a5662b9cf2179db0fb0c8de88cf20ff",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/71-09 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/71-09-3.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 59957,
+          "sha256": "3e6e9147de934351a63dc1ce0b484a50bb2789fc691d39f5c9496f15e9474ce1",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/71-09 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "私人关系",
+        "死亡与记忆",
+        "三联画",
+        "身体"
+      ],
+      "reading": "题名明确纪念对象，1971年11月的日期也在戴尔去世之后。人物能在画中再现，却无法因此重新进入现实生活。",
+      "section": "c8"
+    },
+    {
+      "id": "73-03",
+      "slug": "triptych-may-june",
+      "cr": "73-03",
+      "zh": "三联画，五月至六月",
+      "title": "Triptych May-June",
+      "year": "1973",
+      "stage": "mourning",
+      "medium": "Oil on canvas",
+      "dimensions": "Triptych: Each panel: 78 x 58 in. (198 x 147.5 cm)",
+      "collection": "Private Collection",
+      "source": "https://www.francis-bacon.com/artworks/paintings/triptych-may-june",
+      "images": [
+        "career-images/73-03-1.jpg",
+        "career-images/73-03-2.jpg",
+        "career-images/73-03-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/73-03-1.jpg",
+          "width": 333,
+          "height": 450,
+          "bytes": 69046,
+          "sha256": "694df255d0d49e325b693b8e071ac667cf2685bcf31e1f96dc380afd083832d8",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/73-03 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/73-03-2.jpg",
+          "width": 331,
+          "height": 450,
+          "bytes": 73771,
+          "sha256": "450ecffe35b1fd98c1dcf1bce1fafae890ccc397ed36aec9b2e651599947fdbd",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/73-03 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/73-03-3.jpg",
+          "width": 332,
+          "height": 450,
+          "bytes": 66325,
+          "sha256": "0dc23c0de6a0a8e5d9d75aa9ff430cd9fedc8207243cd0ebd416ef5e20913285",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/73-03 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "私人关系",
+        "死亡与记忆",
+        "三联画",
+        "空间"
+      ],
+      "reading": "死亡背景有文献支持；三个画面仍是重新组织的图像，不是记录事件先后的监控镜头。观察门口、身体与阴影怎样分配在场与缺席。",
+      "section": "c8"
+    },
+    {
+      "id": "76-14",
+      "slug": "portrait-michel-leiris",
+      "cr": "76-14",
+      "zh": "米歇尔·莱里斯肖像",
+      "title": "Portrait of Michel Leiris",
+      "year": "1976",
+      "stage": "late",
+      "medium": "Oil on canvas",
+      "dimensions": "13 ⅜ x 11 ⅜ in. (34 x 29 cm)",
+      "collection": "Centre Georges Pompidou, Paris",
+      "source": "https://www.francis-bacon.com/artworks/paintings/portrait-michel-leiris",
+      "images": [
+        "career-images/76-14-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/76-14-1.jpg",
+          "width": 387,
+          "height": 450,
+          "bytes": 113266,
+          "sha256": "92cae53ffe6cdf112c6832c2bc9f49ed83e28035456d1840094b73cda658732c",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/76-14 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "肖像",
+        "私人关系",
+        "身体"
+      ],
+      "reading": "约34×29厘米的小型头像与两米高的画布要求不同观看距离。手机显示的大小不能代替这种尺度差。",
+      "section": "c9"
+    },
+    {
+      "id": "79-03",
+      "slug": "jet-water",
+      "cr": "79-03",
+      "zh": "喷水",
+      "title": "Jet of Water",
+      "year": "1979",
+      "stage": "late",
+      "medium": "Oil and dry transfer lettering on canvas",
+      "dimensions": "78 x 58 in. (198 x 147.5 cm)",
+      "collection": "Private Collection, Switzerland",
+      "source": "https://www.francis-bacon.com/artworks/paintings/jet-water",
+      "images": [
+        "career-images/79-03-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/79-03-1.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 94639,
+          "sha256": "47059a812ec98e06cb5caec2b18ae8deaed06a363d7ab3ef049730e487c6c019",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/79-03 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "空间",
+        "身体"
+      ],
+      "reading": "没有受苦的脸，流动、冲击、方向与静止色域仍形成强度。这件作品检验人体是不是培根绘画效果的唯一承担者。",
+      "section": "c9"
+    },
+    {
+      "id": "81-03",
+      "slug": "triptych-inspired-oresteia-aeschylus",
+      "cr": "81-03",
+      "zh": "受埃斯库罗斯《俄瑞斯忒亚》启发的三联画",
+      "title": "Triptych Inspired by the Oresteia of Aeschylus",
+      "year": "1981",
+      "stage": "late",
+      "medium": "Oil on canvas",
+      "dimensions": "Triptych: Each panel: 78 x 58 in. (198 x 147.5 cm)",
+      "collection": "原Astrup Fearnley Museet相关收藏；2020年售出，现址未核实",
+      "source": "https://www.francis-bacon.com/artworks/paintings/triptych-inspired-oresteia-aeschylus",
+      "images": [
+        "career-images/81-03-1.jpg",
+        "career-images/81-03-2.jpg",
+        "career-images/81-03-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/81-03-1.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 65622,
+          "sha256": "ad372849f1b2b1e3288db74ab3bce9b5faef3c55a649e75c6bfdaf4eb7f844af",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/81-03 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/81-03-2.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 74129,
+          "sha256": "c9fe7a8673433ff5eb70ee77ee42ac05904b1228544141f358f1b8bc786710cc",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/81-03 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/81-03-3.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 68464,
+          "sha256": "5407b6c50db6f197766fc6fecae1045d26cc4b49343cee7c5582ccde05b9aed8",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/81-03 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "官方目录保留旧奥斯陆署名。苏富比2020年6月30日成交公告确认已售出；不将旧署名显示为确定现藏地。",
+      "topics": [
+        "文学与旧作",
+        "三联画",
+        "死亡与记忆",
+        "空间"
+      ],
+      "reading": "古典悲剧在新阶段被重新调动；其与私人记忆的联系是一种解释，不是所有细节的唯一答案。",
+      "section": "c10",
+      "extraSource": "https://www.sothebys.com/en/articles/sothebys-live-global-auction-event-achieves-363-2-million-and-93-sold"
+    },
+    {
+      "id": "82-06",
+      "slug": "study-self-portrait-10",
+      "cr": "82-06",
+      "zh": "自画像习作，1982",
+      "title": "Study for Self-Portrait",
+      "year": "1982",
+      "stage": "late",
+      "medium": "Oil on canvas",
+      "dimensions": "78 x 58 ⅛ in. (198 x 147.7 cm)",
+      "collection": "Private Collection",
+      "source": "https://www.francis-bacon.com/artworks/paintings/study-self-portrait-10",
+      "images": [
+        "career-images/82-06-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/82-06-1.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 52265,
+          "sha256": "2288e129dd2278b8304a6a04d187c72a03f7fc9762225a940790920253b1ef09",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/82-06 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "肖像",
+        "身体",
+        "空间",
+        "死亡与记忆"
+      ],
+      "reading": "晚期自画像也可以是大幅而非小型头像。比较头部辨认与整张画中人物位置，不预先把空处解释成超脱。",
+      "section": "c9"
+    },
+    {
+      "id": "88-05",
+      "slug": "second-version-triptych-1944",
+      "cr": "88-05",
+      "zh": "1944年三联画的第二版本",
+      "title": "Second Version of Triptych 1944",
+      "year": "1988",
+      "stage": "return",
+      "medium": "Oil and aerosol paint on canvas",
+      "dimensions": "Triptych: Each panel: 78 x 58 in. (198 x 147.5 cm)",
+      "collection": "Tate Gallery, London",
+      "source": "https://www.francis-bacon.com/artworks/paintings/second-version-triptych-1944",
+      "images": [
+        "career-images/88-05-1.jpg",
+        "career-images/88-05-2.jpg",
+        "career-images/88-05-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/88-05-1.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 58457,
+          "sha256": "5d215313dffb7e0a025261c094796188a8582fa9f07eab05a2b872a6c4c30495",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/88-05 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/88-05-2.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 80780,
+          "sha256": "3a6d3144b7118d121bef72a2d39f0df88674b8ffdeaee068a284d9b898ced60d",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/88-05 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/88-05-3.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 56006,
+          "sha256": "bc079acc26541fe1da478e6b63a254df8a3661b3a02b5548b97cd5909247eec9",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/88-05 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "文学与旧作",
+        "三联画",
+        "动物",
+        "身体"
+      ],
+      "reading": "1988年重新处理1944年构图，画布高度由约94厘米增加到198厘米。纪念碑性与失去早期突然性的风险，都值得通过比较检验。",
+      "section": "c10"
+    },
+    {
+      "id": "91-02",
+      "slug": "triptych-5",
+      "cr": "91-02",
+      "zh": "三联画，1991",
+      "title": "Triptych",
+      "year": "1991",
+      "stage": "return",
+      "medium": "Oil and aerosol paint on canvas",
+      "dimensions": "Triptych: Each panel: 78 x 58 in. (198 x 147.5 cm)",
+      "collection": "Museum of Modern Art, New York",
+      "source": "https://www.francis-bacon.com/artworks/paintings/triptych-5",
+      "images": [
+        "career-images/91-02-1.jpg",
+        "career-images/91-02-2.jpg",
+        "career-images/91-02-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/91-02-1.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 49224,
+          "sha256": "bcde975a289043f40dbea0af709e0f22747dcc06aba4ce726bf518018bf20870",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/91-02 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/91-02-2.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 52653,
+          "sha256": "e3dff37d743fee848b795a6651f7f22d4ce13fec4db0bff0a3443dbdf48c2f2c",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/91-02 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/91-02-3.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 49771,
+          "sha256": "a173c935e226c88b76752db099324beeac8b41b98c80b5661291c48ac0e93d3f",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/91-02 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "肖像",
+        "三联画",
+        "空间",
+        "身体"
+      ],
+      "reading": "最后阶段仍将不同人物线索与高度省略的空间并置。不要把晚期统一写成只有单人、空白或安宁。",
+      "section": "c10"
+    },
+    {
+      "id": "91-04",
+      "slug": "study-bull",
+      "cr": "91-04",
+      "zh": "公牛习作",
+      "title": "Study of a Bull",
+      "year": "1991",
+      "stage": "return",
+      "medium": "Oil, aerosol paint and dust on canvas",
+      "dimensions": "78 x 58 in. (198 x 147.5 cm)",
+      "collection": "Private Collection, London",
+      "source": "https://www.francis-bacon.com/artworks/paintings/study-bull",
+      "images": [
+        "career-images/91-04-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/91-04-1.jpg",
+          "width": 333,
+          "height": 450,
+          "bytes": 61706,
+          "sha256": "f5385cd894207b1f11a3ff9f8a0fd9bbd59cc01dd721006837568b7802f370e0",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/91-04 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。",
+      "topics": [
+        "动物",
+        "空间",
+        "死亡与记忆"
+      ],
+      "reading": "尘土是已记录的材料；尘土一定象征死亡则是解释。动物的显现和退隐可以讨论，不用预言式语言封闭结尾。",
+      "section": "c10"
+    }
+  ],
+  "stages": [
+    {
+      "id": "early",
+      "label": "早期探索 · 1930年代"
+    },
+    {
+      "id": "breakthrough",
+      "label": "形象形成 · 1944—1949"
+    },
+    {
+      "id": "bodies",
+      "label": "身体与教皇 · 1949—1956"
+    },
+    {
+      "id": "transition",
+      "label": "改换方向 · 1956—1957"
+    },
+    {
+      "id": "mature",
+      "label": "肖像与三联画 · 1962—1969"
+    },
+    {
+      "id": "mourning",
+      "label": "悼亡与记忆 · 1971—1976"
+    },
+    {
+      "id": "late",
+      "label": "简化与实验 · 1976—1987"
+    },
+    {
+      "id": "return",
+      "label": "回返 · 1988—1991"
+    }
+  ],
+  "topics": [
+    "身体",
+    "动物",
+    "肖像",
+    "空间",
+    "三联画",
+    "复制图像",
+    "私人关系",
+    "文学与旧作",
+    "死亡与记忆"
+  ],
+  "comparisons": [
+    {
+      "title": "有脸与没有可见面孔",
+      "ids": [
+        "49-07",
+        "49-08"
+      ],
+      "note": "同在1949年，两种身体怎样各自形成在场？不要只用教皇代表这一年。"
+    },
+    {
+      "title": "强度在画面的什么地方",
+      "ids": [
+        "53-02",
+        "57-14"
+      ],
+      "note": "从脸与竖纹转向行走方向和整张画的笔触；这是比较，不是必然进化。"
+    },
+    {
+      "title": "熟悉的人不是同一种题材",
+      "ids": [
+        "63-13",
+        "67-14"
+      ],
+      "note": "裸体、站姿、照片与重心怎样产生不同的观看关系？"
+    },
+    {
+      "title": "三联画不等于同一种时间",
+      "ids": [
+        "69-07",
+        "73-03"
+      ],
+      "note": "身份的变奏与不可撤销的失去，怎样借同一形式提出不同问题？"
+    },
+    {
+      "title": "没有受苦的脸，还剩什么",
+      "ids": [
+        "79-03",
+        "82-06"
+      ],
+      "note": "水流、色域与人物位置各自怎样产生强度？"
+    },
+    {
+      "title": "再画旧作：深化还是距离化",
+      "ids": [
+        "44-01",
+        "88-05"
+      ],
+      "note": "屏幕显示不是同比例：后作面板高度约为前作的两倍。保留审美判断的分歧。"
+    }
+  ]
+}

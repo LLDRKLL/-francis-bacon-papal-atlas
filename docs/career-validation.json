@@ -1,0 +1,95 @@
+{
+  "version": "career-3.0",
+  "works": 26,
+  "panel_files": 44,
+  "chapters": 20,
+  "reference_groups": 28,
+  "results": [
+    {
+      "engine": "chromium",
+      "width": 320,
+      "navigation_and_triptych": true,
+      "overflow": false
+    },
+    {
+      "engine": "chromium",
+      "width": 375,
+      "navigation_and_triptych": true,
+      "overflow": false
+    },
+    {
+      "engine": "chromium",
+      "width": 390,
+      "navigation_and_triptych": true,
+      "overflow": false
+    },
+    {
+      "engine": "chromium",
+      "width": 430,
+      "navigation_and_triptych": true,
+      "overflow": false
+    },
+    {
+      "engine": "chromium",
+      "width": 768,
+      "navigation_and_triptych": true,
+      "overflow": false
+    },
+    {
+      "engine": "chromium",
+      "width": 1440,
+      "navigation_and_triptych": true,
+      "overflow": false
+    },
+    {
+      "engine": "chromium",
+      "all_44_panels_loaded": true,
+      "offline_http_requests": 0
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "navigation_and_triptych": true,
+      "overflow": false
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "navigation_and_triptych": true,
+      "overflow": false
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "navigation_and_triptych": true,
+      "overflow": false
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "navigation_and_triptych": true,
+      "overflow": false
+    },
+    {
+      "engine": "webkit",
+      "width": 768,
+      "navigation_and_triptych": true,
+      "overflow": false
+    },
+    {
+      "engine": "webkit",
+      "width": 1440,
+      "navigation_and_triptych": true,
+      "overflow": false
+    },
+    {
+      "engine": "webkit",
+      "all_44_panels_loaded": true,
+      "offline_http_requests": 0
+    },
+    {
+      "retry_after_image_failure": true
+    }
+  ],
+  "real_phone_hardware_tested": false
+}

@@ -1,0 +1,895 @@
+{
+  "checked": "2026-09-14",
+  "works": [
+    {
+      "id": "33-01",
+      "slug": "crucifixion",
+      "cr": "33-01",
+      "zh": "十字架受难",
+      "title": "Crucifixion",
+      "year": "1933",
+      "stage": "early",
+      "medium": "Oil on canvas",
+      "dimensions": "24 ¾ x 19\nin.\n(62 x 48.5 cm)",
+      "collection": "Collection Private Collection",
+      "source": "https://www.francis-bacon.com/artworks/paintings/crucifixion",
+      "images": [
+        "career-images/33-01-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/33-01-1.jpg",
+          "width": 351,
+          "height": 450,
+          "bytes": 81266,
+          "sha256": "6fbf748e82b1116ae1bde32fef9c078434ef7253e29cc243dda378b5e9869749",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/33-01 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "44-01",
+      "slug": "three-studies-figures-base-crucifixion",
+      "cr": "44-01",
+      "zh": "十字架受难底部的人物三习作",
+      "title": "Three Studies for Figures at the Base of a Crucifixion",
+      "year": "1944",
+      "stage": "breakthrough",
+      "medium": "Oil and pastel on fibreboard",
+      "dimensions": "approx.\n  Triptych: Each panel:\n\n  37 x 29\nin.\n(94 x 74 cm)\n   irregular",
+      "collection": "Collection Tate Gallery, London",
+      "source": "https://www.francis-bacon.com/artworks/paintings/three-studies-figures-base-crucifixion",
+      "images": [
+        "career-images/44-01-1.jpg",
+        "career-images/44-01-2.jpg",
+        "career-images/44-01-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/44-01-1.jpg",
+          "width": 350,
+          "height": 450,
+          "bytes": 105572,
+          "sha256": "5ff7ce23a7963b535599f1ec1f91258fd6a001716865550dd103dfd5be9fc99e",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/44-01 FB a Left RGB.jpg"
+        },
+        {
+          "path": "career-images/44-01-2.jpg",
+          "width": 350,
+          "height": 450,
+          "bytes": 107069,
+          "sha256": "357bbc5f28b35f3ee274f64101e4d04652eac975b67ab1386748c91c2dac1c8f",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/44-01 FB b Centre RGB.jpg"
+        },
+        {
+          "path": "career-images/44-01-3.jpg",
+          "width": 349,
+          "height": 450,
+          "bytes": 91145,
+          "sha256": "598f53530213699c29704efd5dc4c081d0d23191395185b3fb594c90f106595c",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/44-01 FB c Right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "46-03",
+      "slug": "painting-1946",
+      "cr": "46-03",
+      "zh": "绘画，1946",
+      "title": "Painting 1946",
+      "year": "1946",
+      "stage": "breakthrough",
+      "medium": "Oil and pastel on canvas",
+      "dimensions": "77 ⅞ x 52\nin.\n(198 x 132 cm)",
+      "collection": "Collection Museum of Modern Art, New York",
+      "source": "https://www.francis-bacon.com/artworks/paintings/painting-1946",
+      "images": [
+        "career-images/46-03-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/46-03-1.jpg",
+          "width": 298,
+          "height": 450,
+          "bytes": 126974,
+          "sha256": "76f9d89906486dc7ed37f6d601c184164816155adc010415591215eb8f3a9763",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/46-03 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "48-01",
+      "slug": "head-i",
+      "cr": "48-01",
+      "zh": "头部 I",
+      "title": "Head I",
+      "year": "1948",
+      "stage": "breakthrough",
+      "medium": "Oil and tempera on hardboard",
+      "dimensions": "approx.\n  40 ½ x 29 ½\nin.\n(103 x 75 cm)\n   irregular",
+      "collection": "Collection Metropolitan Museum of Art, New York",
+      "source": "https://www.francis-bacon.com/artworks/paintings/head-i",
+      "images": [
+        "career-images/48-01-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/48-01-1.jpg",
+          "width": 332,
+          "height": 450,
+          "bytes": 96757,
+          "sha256": "6dfd482e20ec0a9cb3307004e1e4bfcbcf95f6c295e0ea8eff919a915567d58a",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/48-01 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "49-07",
+      "slug": "head-vi",
+      "cr": "49-07",
+      "zh": "头部 VI",
+      "title": "Head VI",
+      "year": "1949",
+      "stage": "bodies",
+      "medium": "Oil on canvas",
+      "dimensions": "36 ¾ x 30 ¼\nin.\n(91.4 x 76.2 cm)",
+      "collection": "Collection Arts Council Collection, Southbank, London",
+      "source": "https://www.francis-bacon.com/artworks/paintings/head-vi",
+      "images": [
+        "career-images/49-07-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/49-07-1.jpg",
+          "width": 371,
+          "height": 450,
+          "bytes": 155285,
+          "sha256": "e1d365dbae90688db87b1ef98c38cf58e1ff4e2128f07ce7127e4619926b5529",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/49-07 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "49-08",
+      "slug": "study-human-body",
+      "cr": "49-08",
+      "zh": "人体习作，1949",
+      "title": "Study from the Human Body",
+      "year": "1949",
+      "stage": "bodies",
+      "medium": "Oil and cotton wool on canvas",
+      "dimensions": "58 x 51 ½\nin.\n(147.5 x 131 cm)",
+      "collection": "Collection National Gallery of Victoria, Melbourne",
+      "source": "https://www.francis-bacon.com/artworks/paintings/study-human-body",
+      "images": [
+        "career-images/49-08-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/49-08-1.jpg",
+          "width": 394,
+          "height": 450,
+          "bytes": 105940,
+          "sha256": "4442019cd5c2731c830c8074288ac93f8fc941e3954b1903e1ee4c6ae31b2f3e",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/49-08 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "52-03",
+      "slug": "dog",
+      "cr": "52-03",
+      "zh": "狗",
+      "title": "Dog",
+      "year": "1952",
+      "stage": "bodies",
+      "medium": "Oil and sand on canvas",
+      "dimensions": "78 x 54\nin.\n(198 x 137 cm)",
+      "collection": "Collection Tate Gallery, London",
+      "source": "https://www.francis-bacon.com/artworks/paintings/dog",
+      "images": [
+        "career-images/52-03-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/52-03-1.jpg",
+          "width": 311,
+          "height": 450,
+          "bytes": 71224,
+          "sha256": "6dc17acda752bbd9b49a8bbc3d0153f834c6f8edfa6850190c3f98becce1b3b9",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/52-03 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "53-02",
+      "slug": "study-after-velazquezs-portrait-pope-innocent-x",
+      "cr": "53-02",
+      "zh": "据委拉斯开兹教皇肖像而作的习作",
+      "title": "Study after Velázquez's Portrait of Pope Innocent X",
+      "year": "1953",
+      "stage": "bodies",
+      "medium": "Oil on canvas",
+      "dimensions": "60 ¼ x 46 ½\nin.\n(153 x 118 cm)",
+      "collection": "Collection Des Moines Art Centre, Des Moines",
+      "source": "https://www.francis-bacon.com/artworks/paintings/study-after-velazquezs-portrait-pope-innocent-x",
+      "images": [
+        "career-images/53-02-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/53-02-1.jpg",
+          "width": 348,
+          "height": 450,
+          "bytes": 132766,
+          "sha256": "9840bc9554d532ae4ef75648df5ff5001e586c725f694fc8b2e576fb4c0cab89",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/53-02 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "53-24",
+      "slug": "two-figures",
+      "cr": "53-24",
+      "zh": "两个人物",
+      "title": "Two Figures",
+      "year": "1953",
+      "stage": "bodies",
+      "medium": "Oil on canvas",
+      "dimensions": "60 x 45 ⅞\nin.\n(152.5 x 116.5 cm)",
+      "collection": "Collection Private Collection",
+      "source": "https://www.francis-bacon.com/artworks/paintings/two-figures",
+      "images": [
+        "career-images/53-24-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/53-24-1.jpg",
+          "width": 343,
+          "height": 450,
+          "bytes": 96874,
+          "sha256": "6d1e1a47212d9dcc5b8add55e45ba275996da1a09567c251fed4da0cfc011c7f",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/53-24 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "54-14",
+      "slug": "figure-meat",
+      "cr": "54-14",
+      "zh": "与肉在一起的人物",
+      "title": "Figure with Meat",
+      "year": "1954",
+      "stage": "bodies",
+      "medium": "Oil on canvas",
+      "dimensions": "50 ⅞ x 48\nin.\n(129 x 122 cm)",
+      "collection": "Collection Art Institute of Chicago, Chicago",
+      "source": "https://www.francis-bacon.com/artworks/paintings/figure-meat",
+      "images": [
+        "career-images/54-14-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/54-14-1.jpg",
+          "width": 421,
+          "height": 450,
+          "bytes": 120169,
+          "sha256": "08d7628b601498d1c801c5312b40b19298ff46459473ede2e583f291b463df4a",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/54-14 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "56-06",
+      "slug": "study-portrait-i-0",
+      "cr": "56-06",
+      "zh": "肖像习作 I，1956",
+      "title": "Study for Portrait I",
+      "year": "1956",
+      "stage": "transition",
+      "medium": "Oil on canvas",
+      "dimensions": "77 ⅛ x 55 ¾\nin.\n(197 x 141.5 cm)",
+      "collection": "Collection The National Gallery of Canada, Ottawa",
+      "source": "https://www.francis-bacon.com/artworks/paintings/study-portrait-i-0",
+      "images": [
+        "career-images/56-06-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/56-06-1.jpg",
+          "width": 322,
+          "height": 450,
+          "bytes": 77929,
+          "sha256": "e3672b70cdd4bc95b5adac46fe851d445c608507873c704734c023faa4ee2054",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/56-06 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "57-14",
+      "slug": "study-portrait-van-gogh-vi",
+      "cr": "57-14",
+      "zh": "梵高肖像习作 VI",
+      "title": "Study for Portrait of Van Gogh VI",
+      "year": "1957",
+      "stage": "transition",
+      "medium": "Oil on canvas",
+      "dimensions": "79 ¾ x 56\nin.\n(202.5 x 142 cm)",
+      "collection": "Collection The Arts Council of Great Britain",
+      "source": "https://www.francis-bacon.com/artworks/paintings/study-portrait-van-gogh-vi",
+      "images": [
+        "career-images/57-14-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/57-14-1.jpg",
+          "width": 324,
+          "height": 450,
+          "bytes": 175537,
+          "sha256": "e47856611c4580fb9cd07b22530d001bb7e3fccff10935708b61b33ecf7d1b7d",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/57-14 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "62-04",
+      "slug": "three-studies-crucifixion",
+      "cr": "62-04",
+      "zh": "十字架受难三习作",
+      "title": "Three Studies for a Crucifixion",
+      "year": "1962",
+      "stage": "mature",
+      "medium": "Oil on canvas",
+      "dimensions": "Triptych: Each panel:\n\n  78 x 57\nin.\n(198.1 x 144.8 cm)",
+      "collection": "Collection Solomon R. Guggenheim Museum, New York",
+      "source": "https://www.francis-bacon.com/artworks/paintings/three-studies-crucifixion",
+      "images": [
+        "career-images/62-04-1.jpg",
+        "career-images/62-04-2.jpg",
+        "career-images/62-04-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/62-04-1.jpg",
+          "width": 328,
+          "height": 450,
+          "bytes": 96018,
+          "sha256": "c0f30ec3d447d0a29a47058e383827d30c4f4e843b219492e4df30abfd009ce9",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/62-04 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/62-04-2.jpg",
+          "width": 327,
+          "height": 450,
+          "bytes": 96151,
+          "sha256": "62ed8aef8c848d0ce459b5cfefd282e2d5de9157ca262a0fc7247fcae5fcdfc3",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/62-04 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/62-04-3.jpg",
+          "width": 327,
+          "height": 450,
+          "bytes": 95362,
+          "sha256": "5774ae434f4be73b6691bf5c55a3afd1244072001a2cfd37f6817e15cfe98533",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/62-04 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "63-13",
+      "slug": "portrait-henrietta-moraes",
+      "cr": "63-13",
+      "zh": "亨丽埃塔·莫赖斯肖像",
+      "title": "Portrait of Henrietta Moraes",
+      "year": "1963",
+      "stage": "mature",
+      "medium": "Oil on canvas",
+      "dimensions": "65 x 56\nin.\n(165 x 142.5 cm)",
+      "collection": "Collection Private Collection",
+      "source": "https://www.francis-bacon.com/artworks/paintings/portrait-henrietta-moraes",
+      "images": [
+        "career-images/63-13-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/63-13-1.jpg",
+          "width": 387,
+          "height": 450,
+          "bytes": 121436,
+          "sha256": "fdb8fd94d853576cd8296ab4b3180dbded6c38b8f5e7c6079a02614d5bb7f167",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/63-13 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "67-14",
+      "slug": "portrait-isabel-rawsthorne-standing-street-soho",
+      "cr": "67-14",
+      "zh": "站在苏荷街头的伊莎贝尔·罗斯索恩肖像",
+      "title": "Portrait of Isabel Rawsthorne Standing in a Street in Soho",
+      "year": "1967",
+      "stage": "mature",
+      "medium": "Oil on canvas",
+      "dimensions": "78 x 57 ¾\nin.\n(198 x 147 cm)",
+      "collection": "Collection Staatliche Museen Preussischer Kulturbesitz, Nationalgalerie, Berlin",
+      "source": "https://www.francis-bacon.com/artworks/paintings/portrait-isabel-rawsthorne-standing-street-soho",
+      "images": [
+        "career-images/67-14-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/67-14-1.jpg",
+          "width": 336,
+          "height": 450,
+          "bytes": 112460,
+          "sha256": "55d874d472dbfd0ec7c75a3655ca0bf57d2a396f3dc07cafbf4018f502baccf3",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/67-14 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "67-16",
+      "slug": "triptych",
+      "cr": "67-16",
+      "zh": "三联画，1967（与《斗士斯威尼》相关）",
+      "title": "Triptych",
+      "year": "1967",
+      "stage": "mature",
+      "medium": "Oil on canvas",
+      "dimensions": "Left panel:\n\n  78 ¼ x 58 ⅜\nin.\n(198.8 x 148.3 cm) centre and right panels:\n\n  78 ¼ x 58 ¼\nin.\n(198.8 x 148 cm)",
+      "collection": "Collection Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, D.C.",
+      "source": "https://www.francis-bacon.com/artworks/paintings/triptych",
+      "images": [
+        "career-images/67-16-1.jpg",
+        "career-images/67-16-2.jpg",
+        "career-images/67-16-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/67-16-1.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 96329,
+          "sha256": "a64dd0e78aeac604d643b7d53c29e6bc76c95463a11796563b184978706abba0",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/67-16 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/67-16-2.jpg",
+          "width": 336,
+          "height": 450,
+          "bytes": 91926,
+          "sha256": "74e47c15288fbafba3f924c7b29f224b4ce42e7c0b3e255525d73b163c83c067",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/67-16 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/67-16-3.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 101530,
+          "sha256": "7931755eece43071cbef067773a15109e147bbe2cedc6375ab526a6090c79c80",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/67-16 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "69-07",
+      "slug": "three-studies-lucian-freud",
+      "cr": "69-07",
+      "zh": "卢西安·弗洛伊德三习作",
+      "title": "Three Studies of Lucian Freud",
+      "year": "1969",
+      "stage": "mature",
+      "medium": "Oil on canvas",
+      "dimensions": "Triptych: Each panel:\n\n  77 ⅞ x 58 ⅛\nin.\n(197.8 x 147.5 cm)",
+      "collection": "Collection Private Collection, USA",
+      "source": "https://www.francis-bacon.com/artworks/paintings/three-studies-lucian-freud",
+      "images": [
+        "career-images/69-07-1.jpg",
+        "career-images/69-07-2.jpg",
+        "career-images/69-07-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/69-07-1.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 86543,
+          "sha256": "82bf04925eee0675f8b95d4fac9284912d80851898c4895bad6370f959f5464b",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/69-07 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/69-07-2.jpg",
+          "width": 333,
+          "height": 450,
+          "bytes": 83918,
+          "sha256": "6b56d0a71e0fcd8a2fbfaec6af2f1fad3912dc95ca9134ae999fabdfc27cd5d8",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/69-07 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/69-07-3.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 81288,
+          "sha256": "0b5a09ac4925ad3e912e594386feee70fc2a36f13a09bd8206385b36316b1768",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/69-07 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "71-09",
+      "slug": "memory-george-dyer",
+      "cr": "71-09",
+      "zh": "纪念乔治·戴尔",
+      "title": "In Memory of George Dyer",
+      "year": "1971",
+      "stage": "mourning",
+      "medium": "Oil and dry transfer lettering on canvas",
+      "dimensions": "Triptych: Each panel:\n\n  78 x 58\nin.\n(198 x 147.5 cm)",
+      "collection": "Collection Fondation Beyeler, Beyeler Collection, Riehen / Basel",
+      "source": "https://www.francis-bacon.com/artworks/paintings/memory-george-dyer",
+      "images": [
+        "career-images/71-09-1.jpg",
+        "career-images/71-09-2.jpg",
+        "career-images/71-09-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/71-09-1.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 52751,
+          "sha256": "729e9e33d0ab71f4110b5f0fc93c5e96f304bb46b536b689a17ef804bc3074fc",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/71-09 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/71-09-2.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 86359,
+          "sha256": "da138269abc09ff84d18acc98beeb4437a5662b9cf2179db0fb0c8de88cf20ff",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/71-09 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/71-09-3.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 59957,
+          "sha256": "3e6e9147de934351a63dc1ce0b484a50bb2789fc691d39f5c9496f15e9474ce1",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/71-09 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "73-03",
+      "slug": "triptych-may-june",
+      "cr": "73-03",
+      "zh": "三联画，五月至六月",
+      "title": "Triptych May-June",
+      "year": "1973",
+      "stage": "mourning",
+      "medium": "Oil on canvas",
+      "dimensions": "Triptych: Each panel:\n\n  78 x 58\nin.\n(198 x 147.5 cm)",
+      "collection": "Collection Private Collection",
+      "source": "https://www.francis-bacon.com/artworks/paintings/triptych-may-june",
+      "images": [
+        "career-images/73-03-1.jpg",
+        "career-images/73-03-2.jpg",
+        "career-images/73-03-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/73-03-1.jpg",
+          "width": 333,
+          "height": 450,
+          "bytes": 69046,
+          "sha256": "694df255d0d49e325b693b8e071ac667cf2685bcf31e1f96dc380afd083832d8",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/73-03 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/73-03-2.jpg",
+          "width": 331,
+          "height": 450,
+          "bytes": 73771,
+          "sha256": "450ecffe35b1fd98c1dcf1bce1fafae890ccc397ed36aec9b2e651599947fdbd",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/73-03 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/73-03-3.jpg",
+          "width": 332,
+          "height": 450,
+          "bytes": 66325,
+          "sha256": "0dc23c0de6a0a8e5d9d75aa9ff430cd9fedc8207243cd0ebd416ef5e20913285",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/73-03 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "76-14",
+      "slug": "portrait-michel-leiris",
+      "cr": "76-14",
+      "zh": "米歇尔·莱里斯肖像",
+      "title": "Portrait of Michel Leiris",
+      "year": "1976",
+      "stage": "late",
+      "medium": "Oil on canvas",
+      "dimensions": "13 ⅜ x 11 ⅜\nin.\n(34 x 29 cm)",
+      "collection": "Collection Centre Georges Pompidou, Paris",
+      "source": "https://www.francis-bacon.com/artworks/paintings/portrait-michel-leiris",
+      "images": [
+        "career-images/76-14-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/76-14-1.jpg",
+          "width": 387,
+          "height": 450,
+          "bytes": 113266,
+          "sha256": "92cae53ffe6cdf112c6832c2bc9f49ed83e28035456d1840094b73cda658732c",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/76-14 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "79-03",
+      "slug": "jet-water",
+      "cr": "79-03",
+      "zh": "喷水",
+      "title": "Jet of Water",
+      "year": "1979",
+      "stage": "late",
+      "medium": "Oil and dry transfer lettering on canvas",
+      "dimensions": "78 x 58\nin.\n(198 x 147.5 cm)",
+      "collection": "Collection Private Collection, Switzerland",
+      "source": "https://www.francis-bacon.com/artworks/paintings/jet-water",
+      "images": [
+        "career-images/79-03-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/79-03-1.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 94639,
+          "sha256": "47059a812ec98e06cb5caec2b18ae8deaed06a363d7ab3ef049730e487c6c019",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/79-03 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "81-03",
+      "slug": "triptych-inspired-oresteia-aeschylus",
+      "cr": "81-03",
+      "zh": "受埃斯库罗斯《俄瑞斯忒亚》启发的三联画",
+      "title": "Triptych Inspired by the Oresteia of Aeschylus",
+      "year": "1981",
+      "stage": "late",
+      "medium": "Oil on canvas",
+      "dimensions": "Triptych: Each panel:\n\n  78 x 58\nin.\n(198 x 147.5 cm)",
+      "collection": "Collection Astrup Fearnley Museet, Oslo",
+      "source": "https://www.francis-bacon.com/artworks/paintings/triptych-inspired-oresteia-aeschylus",
+      "images": [
+        "career-images/81-03-1.jpg",
+        "career-images/81-03-2.jpg",
+        "career-images/81-03-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/81-03-1.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 65622,
+          "sha256": "ad372849f1b2b1e3288db74ab3bce9b5faef3c55a649e75c6bfdaf4eb7f844af",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/81-03 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/81-03-2.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 74129,
+          "sha256": "c9fe7a8673433ff5eb70ee77ee42ac05904b1228544141f358f1b8bc786710cc",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/81-03 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/81-03-3.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 68464,
+          "sha256": "5407b6c50db6f197766fc6fecae1045d26cc4b49343cee7c5582ccde05b9aed8",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/81-03 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "82-06",
+      "slug": "study-self-portrait-10",
+      "cr": "82-06",
+      "zh": "自画像习作，1982",
+      "title": "Study for Self-Portrait",
+      "year": "1982",
+      "stage": "late",
+      "medium": "Oil on canvas",
+      "dimensions": "78 x 58 ⅛\nin.\n(198 x 147.7 cm)",
+      "collection": "Collection Private Collection",
+      "source": "https://www.francis-bacon.com/artworks/paintings/study-self-portrait-10",
+      "images": [
+        "career-images/82-06-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/82-06-1.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 52265,
+          "sha256": "2288e129dd2278b8304a6a04d187c72a03f7fc9762225a940790920253b1ef09",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/82-06 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "88-05",
+      "slug": "second-version-triptych-1944",
+      "cr": "88-05",
+      "zh": "1944年三联画的第二版本",
+      "title": "Second Version of Triptych 1944",
+      "year": "1988",
+      "stage": "return",
+      "medium": "Oil and aerosol paint on canvas",
+      "dimensions": "Triptych: Each panel:\n\n  78 x 58\nin.\n(198 x 147.5 cm)",
+      "collection": "Collection Tate Gallery, London",
+      "source": "https://www.francis-bacon.com/artworks/paintings/second-version-triptych-1944",
+      "images": [
+        "career-images/88-05-1.jpg",
+        "career-images/88-05-2.jpg",
+        "career-images/88-05-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/88-05-1.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 58457,
+          "sha256": "5d215313dffb7e0a025261c094796188a8582fa9f07eab05a2b872a6c4c30495",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/88-05 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/88-05-2.jpg",
+          "width": 334,
+          "height": 450,
+          "bytes": 80780,
+          "sha256": "3a6d3144b7118d121bef72a2d39f0df88674b8ffdeaee068a284d9b898ced60d",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/88-05 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/88-05-3.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 56006,
+          "sha256": "bc079acc26541fe1da478e6b63a254df8a3661b3a02b5548b97cd5909247eec9",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/88-05 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "91-02",
+      "slug": "triptych-5",
+      "cr": "91-02",
+      "zh": "三联画，1991",
+      "title": "Triptych",
+      "year": "1991",
+      "stage": "return",
+      "medium": "Oil and aerosol paint on canvas",
+      "dimensions": "Triptych: Each panel:\n\n  78 x 58\nin.\n(198 x 147.5 cm)",
+      "collection": "Collection Museum of Modern Art, New York",
+      "source": "https://www.francis-bacon.com/artworks/paintings/triptych-5",
+      "images": [
+        "career-images/91-02-1.jpg",
+        "career-images/91-02-2.jpg",
+        "career-images/91-02-3.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/91-02-1.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 49224,
+          "sha256": "bcde975a289043f40dbea0af709e0f22747dcc06aba4ce726bf518018bf20870",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/91-02 FB a-left RGB.jpg"
+        },
+        {
+          "path": "career-images/91-02-2.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 52653,
+          "sha256": "e3dff37d743fee848b795a6651f7f22d4ce13fec4db0bff0a3443dbdf48c2f2c",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/91-02 FB b-centre RGB.jpg"
+        },
+        {
+          "path": "career-images/91-02-3.jpg",
+          "width": 335,
+          "height": 450,
+          "bytes": 49771,
+          "sha256": "a173c935e226c88b76752db099324beeac8b41b98c80b5661291c48ac0e93d3f",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/91-02 FB c-right RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    },
+    {
+      "id": "91-04",
+      "slug": "study-bull",
+      "cr": "91-04",
+      "zh": "公牛习作",
+      "title": "Study of a Bull",
+      "year": "1991",
+      "stage": "return",
+      "medium": "Oil, aerosol paint and dust on canvas",
+      "dimensions": "78 x 58\nin.\n(198 x 147.5 cm)",
+      "collection": "Collection Private Collection, London",
+      "source": "https://www.francis-bacon.com/artworks/paintings/study-bull",
+      "images": [
+        "career-images/91-04-1.jpg"
+      ],
+      "imageMeta": [
+        {
+          "path": "career-images/91-04-1.jpg",
+          "width": 333,
+          "height": 450,
+          "bytes": 61706,
+          "sha256": "f5385cd894207b1f11a3ff9f8a0fd9bbd59cc01dd721006837568b7802f370e0",
+          "source": "https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/91-04 FB RGB.jpg"
+        }
+      ],
+      "rights": "© The Estate of Francis Bacon / DACS；公开目录参考图，不代表公有领域或已取得商业授权。",
+      "collectionNote": "按所引目录记录；不保证当前所有权或展出。私人收藏地址未公开。"
+    }
+  ]
+}
