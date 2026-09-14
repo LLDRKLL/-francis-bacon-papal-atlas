@@ -1,0 +1,24 @@
+name: Verify published three-part research website
+on:
+  push:
+    branches: [main]
+    paths: ['docs/career-release.json', 'scripts/check_public_career.py', '.github/workflows/career-public-check.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  public-site:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v6
+      - name: Verify anonymous public HTML, all artwork images and source files
+        run: python scripts/check_public_career.py
+      - name: Save public deployment verification
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: public-career-verification
+          path: research-output/public-career-verification.json
+          if-no-files-found: warn
+          retention-days: 30
